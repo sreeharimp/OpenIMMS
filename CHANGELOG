@@ -1,0 +1,15 @@
+## [1.0.0] – Core Release
+**Date:** 2026-01-20
+
+### Added
+- OpenIMMS System Manual (Level-1 manufacturing system definition)
+- OpenIMMS Validation Model (IQ–OQ–PQ, risk-based)
+- Scientific Injection Moulding (SIM) Framework
+- Risk–Parameter Traceability Matrix (ISO 14971 integration)
+- Governance model
+- Creative Commons Attribution–ShareAlike 4.0 license
+- Public README and project structure
+
+### Notes
+- This release defines the core OpenIMMS framework.
+- No backward compatibility guarantees prior to this version.
