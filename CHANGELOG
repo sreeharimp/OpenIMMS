@@ -14,3 +14,16 @@
 ### Notes
 - This release defines the core OpenIMMS framework.
 - No backward compatibility guarantees prior to this version.
+
+## [1.1.0] – Adoption Ready
+**Date:** 2026-01-20
+
+### Added
+- Validation Master Plan (VMP) template
+- Installation Qualification (IQ) template
+- Operational Qualification (OQ) template
+- Performance Qualification (PQ) template
+- Validation Summary Report template
+
+### Notes
+- This release makes OpenIMMS fully executable for injection moulding process validation.
